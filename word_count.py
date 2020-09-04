@@ -387,5 +387,6 @@ class BST:
 
 
 
-
-# print(top_words("alice.txt",5))  # COMMENT THIS OUT WHEN SUBMITTING TO GRADESCOPE
+#Replace alice.txt with file path relative to this file and 5 with the
+#number of top words to be returned
+print(top_words("alice.txt",5))
