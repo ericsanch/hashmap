@@ -1,1 +1,4 @@
 # hashmap
+This project implements a hash map data structure which is used to store a sequence of words received as input. The hash map is used as part of a concordance program written to count the frequency at which each word of an input file occurs. When executing the concordance program, the user may select the top # number of words in the file. Included with this repository is a text file containing Lewis Carroll's 'Alice in Wonderland' for demonstrating the functionality of the program.
+
+This program was written for the final project of CS 261 at Oregon State University. The solution of this program and program prompt are subject to all applicable Oregon State University academic policies. The solution of this program is provided for informative purposes only and should not be reproduced for submission to any academic program.
